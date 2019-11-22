@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/06/05 13:31:35.000.239,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2019/06/05 13:31:35.000.253,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2019/06/05 15:31:31.000.270,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2019/06/05 15:31:31.000.281,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2019/06/05 15:32:23.000.047,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2019/06/05 15:32:23.000.035,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2019/11/05 14:13:10.000.441,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2019/11/05 14:13:10.000.430,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2019/11/05 14:13:17.000.275,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Unit2.cpp</Transaction>
+    <Transaction>2019/11/05 14:21:40.000.524,C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\Unit1.dfm</Transaction>
+    <Transaction>2019/11/05 14:21:40.000.524,C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Unit1.cpp=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\Unit1.cpp</Transaction>
+    <Transaction>2019/11/05 14:21:40.000.524,C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Unit1.h=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\Unit1.h</Transaction>
+    <Transaction>2019/11/05 14:21:41.000.687,C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Project1PCH1.h=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\Project1PCH1.h</Transaction>
+    <Transaction>2019/11/05 14:21:41.000.155,C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Unit2.h=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\Unit2.h</Transaction>
+    <Transaction>2019/11/05 14:21:41.000.155,C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Unit2.cpp=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\Unit2.cpp</Transaction>
+    <Transaction>2019/11/05 14:21:42.000.260,C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Project1.cbproj=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\Project1.cbproj</Transaction>
+    <Transaction>2019/11/05 14:31:39.000.413,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\Win32\Debug\k8055d.lib</Transaction>
+    <Transaction>2019/11/05 14:31:49.000.229,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\Win32\Debug\K8055D.dll</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.172,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\my_net.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.327,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\byte_order_generic.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.155,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\my_sys.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.270,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\m_ctype.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.062,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\plugin_audit.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.302,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\decimal.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.145,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\my_xml.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.005,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\typelib.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.260,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\m_string.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.318,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\byte_order_generic_x86.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.137,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\mysql.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.079,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\mysqld_error.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.179,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\my_list.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.070,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\plugin.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.236,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\my_byteorder.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.244,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\my_attribute.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.221,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\my_config.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.335,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\big_endian.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.252,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\my_alloc.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.106,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\mysql_time.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.285,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\keycache.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.129,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\mysql_com.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.055,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\plugin_ftparser.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.120,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\mysql_com_server.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.212,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\my_dbug.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.278,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\little_endian.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.047,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\plugin_validate_password.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.113,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\mysql_embed.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.025,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\sslopt-case.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.189,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\my_global.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.293,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\errmsg.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.091,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\mysqld_ername.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.099,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\mysql_version.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.310,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\byte_order_generic_x86_64.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.164,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\my_pthread.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.019,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\sslopt-longopts.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.040,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\sql_common.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.204,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\my_dir.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.229,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\my_compiler.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.012,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\sslopt-vars.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.196,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\my_getopt.h</Transaction>
+    <Transaction>2019/11/05 15:05:50.000.033,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\include\sql_state.h</Transaction>
+    <Transaction>2019/11/05 15:06:04.000.562,=C:\Users\BTSSN2\Documents\Embarcadero\Studio\Projets\Projet meteo cest le bon\libmysql.lib</Transaction>
+  </Transactions>
+</BorlandProject>
